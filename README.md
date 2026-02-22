@@ -1,0 +1,171 @@
+# privacy-police
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy — Tartib Sohibi</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.55; margin: 0; padding: 24px; }
+    main { max-width: 900px; margin: 0 auto; }
+    h1 { margin-top: 0; font-size: 1.9rem; }
+    h2 { margin-top: 1.6rem; font-size: 1.3rem; }
+    h3 { margin-top: 1.1rem; font-size: 1.1rem; }
+    p, li { font-size: 1rem; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+    .meta { margin: 0.25rem 0 1rem; }
+    a { word-break: break-word; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Privacy Policy — Tartib Sohibi</h1>
+    <p class="meta"><strong>Effective date:</strong> 2026-02-22</p>
+
+    <p>
+      This Privacy Policy explains how <strong>Tartib Sohibi</strong> (“we”, “our”, or “us”) collects, uses, and shares
+      information when you use the Tartib Sohibi mobile application (the “App”) distributed via Google Play.
+    </p>
+
+    <h2>1) Information We Collect</h2>
+
+    <h3>A) Information you provide</h3>
+    <p><strong>Registration / profile information (no password):</strong> When you register or update your profile, we collect:</p>
+    <ul>
+      <li><strong>Name</strong></li>
+      <li><strong>Email address</strong></li>
+      <li><strong>Gender</strong></li>
+      <li><strong>Date of birth (birthday)</strong></li>
+    </ul>
+    <p>
+      We use <strong>gender</strong> and <strong>birthday</strong> to determine and calculate features related to the
+      <strong>start date of praying</strong> within the App.
+    </p>
+
+    <p>
+      <strong>Email login (OTP):</strong> When you log in using your email, we use your <strong>email address</strong> to send
+      you a <strong>one-time password (OTP)</strong> / verification code through our backend. We do not require you to create
+      or submit a password.
+    </p>
+
+    <p>
+      <strong>Support information:</strong> If you contact us, we collect your email address and the information you include
+      in your message.
+    </p>
+
+    <h3>B) Information collected automatically</h3>
+    <p>We may collect limited technical information such as:</p>
+    <ul>
+      <li>Device type/model and operating system version</li>
+      <li>App version</li>
+      <li>Basic diagnostic/log information (for example, for troubleshooting and improving stability)</li>
+    </ul>
+
+    <h3>C) Location information (optional)</h3>
+    <p>
+      The App may request access to <strong>approximate and/or precise location</strong> (depending on permissions you grant).
+      If you allow location access, we use it to:
+    </p>
+    <ul>
+      <li><strong>Calculate and display prayer times</strong> for your current area</li>
+      <li>Support the <strong>compass/Qibla</strong> feature</li>
+    </ul>
+
+    <p><strong>If you do not grant location permission</strong>, the App will still work, but some features may be limited:</p>
+    <ul>
+      <li><strong>Compass/Qibla</strong> may not work</li>
+      <li><strong>Prayer times</strong> may use a <strong>default location (Tashkent)</strong> instead of your current location</li>
+    </ul>
+
+    <p>You can enable/disable location access anytime in your device settings.</p>
+
+    <h2>2) How We Use Information</h2>
+    <p>We use information to:</p>
+    <ul>
+      <li>Create and manage your account/profile</li>
+      <li>Calculate the <strong>start date of praying</strong> using your provided <strong>gender</strong> and <strong>birthday</strong></li>
+      <li>Send OTP verification codes via our backend to authenticate you</li>
+      <li>Provide and maintain the App’s features</li>
+      <li>Provide optional <strong>location-based functionality</strong> (prayer times by current area, compass/Qibla)</li>
+      <li>Improve performance, fix bugs, and maintain security</li>
+      <li>Respond to support requests</li>
+      <li>Comply with legal obligations</li>
+    </ul>
+
+    <h2>3) Where Your Data Is Stored</h2>
+    <ul>
+      <li>
+        Your <strong>account/profile data</strong> (name, email, gender, birthday) is stored on our backend servers (or backend
+        infrastructure) so your account can work across sessions/devices.
+      </li>
+      <li>
+        The App may also store some data <strong>locally on your device</strong> to improve performance and user experience.
+      </li>
+    </ul>
+
+    <h2>4) Sharing of Information</h2>
+    <p>We do <strong>not</strong> sell your personal information.</p>
+    <p>We may share information only:</p>
+    <ul>
+      <li>
+        With <strong>service providers</strong> who help operate our backend and infrastructure (for example, hosting and email
+        delivery), under confidentiality and security obligations
+      </li>
+      <li>To comply with <strong>legal requirements</strong> or lawful requests</li>
+      <li>To protect the rights, safety, and security of users and the App</li>
+      <li>
+        In connection with a <strong>business transfer</strong> (merger, acquisition, or sale of assets), where permitted by law
+      </li>
+    </ul>
+
+    <h2>5) Account Deletion</h2>
+    <p>You can request deletion of your account using the following link:</p>
+    <p>
+      <strong>Account deletion URL:</strong>
+      <a href="https://test.tartib-sohibi.uz/account/delete">https://test.tartib-sohibi.uz/account/delete</a>
+    </p>
+    <p>
+      When you request deletion, we will delete (or anonymize) your account data in accordance with applicable laws and legitimate
+      retention requirements.
+    </p>
+
+    <h2>6) Data Retention</h2>
+    <ul>
+      <li>We retain account/profile data for as long as your account is active or as needed to provide the App and comply with legal obligations.</li>
+      <li>OTP codes are short-lived and are retained only as long as necessary for authentication and security.</li>
+    </ul>
+
+    <h2>7) Security</h2>
+    <p>We use reasonable safeguards designed to protect your information. However, no method of transmission or storage is completely secure.</p>
+
+    <h2>8) Children’s Privacy</h2>
+    <p>
+      The App is not directed to children under <strong>13</strong> (or the minimum age required in your country). We do not knowingly
+      collect personal information from children. If you believe a child has provided personal information, contact us and we will take
+      steps to delete it.
+    </p>
+
+    <h2>9) Your Choices and Rights</h2>
+    <p>You can:</p>
+    <ul>
+      <li>Disable <strong>Location</strong> permission in your device settings at any time (the App will use the default location Tashkent for prayer times)</li>
+      <li>Access and update your profile information (where available)</li>
+      <li>Delete your account via: <a href="https://test.tartib-sohibi.uz/account/delete">https://test.tartib-sohibi.uz/account/delete</a></li>
+      <li>Uninstall the App at any time</li>
+    </ul>
+    <p>
+      Depending on your location, you may have additional rights under applicable laws. For privacy requests, contact us.
+    </p>
+
+    <h2>10) Changes to This Privacy Policy</h2>
+    <p>
+      We may update this Privacy Policy from time to time. We will post the updated version and update the effective date above.
+    </p>
+
+    <h2>11) Contact Us</h2>
+    <p>If you have questions about this Privacy Policy, contact:</p>
+    <p><strong>Email:</strong> <a href="mailto:ikhasanmusaevlite@gmail.com">ikhasanmusaevlite@gmail.com</a></p>
+  </main>
+</body>
+</html>
